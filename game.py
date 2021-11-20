@@ -1,4 +1,5 @@
 
 
 class XetGame:
-    pass
+    def __init__(self):
+        pass
